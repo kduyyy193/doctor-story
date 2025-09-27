@@ -1,0 +1,5 @@
+{
+  "name": "Game Giả lập Bác sĩ",
+  "description": "Một trò chơi mô phỏng y tế nơi người dùng vào vai bác sĩ, chẩn đoán bệnh nhân do AI điều khiển thông qua các cuộc trò chuyện và đề xuất phương pháp điều trị.",
+  "requestFramePermissions": []
+}
